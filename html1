@@ -1,0 +1,50 @@
+<!-- <!DOCTYPE html>
+<head>
+    <title> ID va Class</title>
+    <meta charset "utf-8">
+    <link rel="stylesheet" href="main2.css">
+</head>
+
+<body>
+    
+        div { width: 20px; <heihgt:20px></heihgt:20px>
+            border:1px solid black;
+            padding:30px;
+            margin: 20px;
+        }
+        #box 1
+        
+    <h1> ID</h1>
+    <p></p>
+    <h2>class</h2>{
+        
+        <p> muon hoc lap TRinh co ban thi click vao day</p>
+        
+    }
+    <h2 class="type2">thuoc tinh class1</h2>
+    <h2 class="type2">Thuoc tinh class 2</h2>
+    <h2 class="type3">thuoc tinh class 2</h2>
+    <h2 class="type3">thuoc tinh class 2</h2>
+    <h2 class="type4">Thuoc tinh class 2</h2>
+    <h2>
+    <ol>
+        <il>1 </il>
+        <il>2</il>
+        <il>3</il>
+    </ol>
+
+    </h2>
+    
+</body> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    1945-
+</body>
+</html>
